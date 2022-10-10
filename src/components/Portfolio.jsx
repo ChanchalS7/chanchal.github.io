@@ -1,8 +1,8 @@
 import React from "react";
 
-import Bewakoof from "../assets/portfolio/bewkoof.png";
-import jio from "../assets/portfolio/jio.png"
-import insta from "../assets/portfolio/insta.png"
+import zara from "./zara.png";
+import hometogo from "./hometogo.png"
+import mamaearth from "./mamaearth.png"
 
 
 const Portfolio = () => {
@@ -27,7 +27,7 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: mamearth,
+      src: mamaearth,
       link: 'https://mama-earth.netlify.app/',
       repo: 'https://github.com/ChanchalS7/mamaearth-clone',
       des:"Mamaearth-Clone",
